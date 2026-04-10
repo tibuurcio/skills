@@ -141,6 +141,8 @@ Prior examples: issues [#167](https://github.com/vercel-labs/skills/issues/167),
 
 There are no published criteria for acceptance. Maintainers curate case-by-case.
 
+**A pre-drafted submission is ready to post** at [`docs/skills-sh-submission.md`](./docs/skills-sh-submission.md). When you're ready to submit, update it with any new skills added since, then copy-paste the title and body into a new issue on `vercel-labs/skills`.
+
 ## Design philosophy for skills in this repo
 
 1. **Self-contained** — a skill should not depend on external URLs, npm packages on the user side, or services that might disappear. Embed templates, catalogs, and examples directly in the skill directory.
